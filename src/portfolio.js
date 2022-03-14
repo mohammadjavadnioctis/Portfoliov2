@@ -217,9 +217,6 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        
-      
-       
       ],
     },
     {
@@ -279,7 +276,7 @@ const projectcards = {
     {
       title: "CryptoX",
       img_path: "project-06.png",
-      lottieName: 'CryptoCAnimation.json',
+      lottieName: "CryptoCAnimation.json",
       description:
         "A Centralized CryptoCurrency Exchange With Live Data Fetching And Analyzing Market Moves.",
       tags: [
@@ -341,12 +338,10 @@ const projectcards = {
     //   linkcolor: "white",
     // },
 
-
     {
       title: "Taj Group Co.",
       img_path: "tajgroup.png",
-      description:
-        "A React Based Website For The Brand Taj Group Holding.",
+      description: "A React Based Website For The Brand Taj Group Holding.",
       tags: [
         {
           lang: "React",
@@ -367,7 +362,7 @@ const projectcards = {
     },
     {
       title: "FilMedia",
-      lottieName: 'movieWatchingAnimations.json',
+      lottieName: "movieWatchingAnimations.json",
       img_path: "neural.gif",
       description:
         "Have You Ever Asked The Question of What To Watch And Spent Countless Hours Just Hiking The Internet For a Good Movie ? This App Solves Your Problem.",
@@ -375,7 +370,7 @@ const projectcards = {
         {
           lang: "JS",
           color: "#ebd74c",
-          textColor:'black'
+          textColor: "black",
         },
         {
           lang: "React",
@@ -399,6 +394,39 @@ const projectcards = {
       linkcolor: "white",
     },
     {
+      title: "AeroTech",
+      // lottieName: 'movieWatchingAnimations.json',
+      img_path: "Aerotech.png",
+      description:
+        "A Sleek Professional Looking Holding Website For Showing That SPAs can Be Achieved In Vanilla JavaScript.",
+      tags: [
+        {
+          lang: "JS",
+          color: "#ebd74c",
+          textColor: "black",
+        },
+        {
+          lang: "JQuery",
+          color: "#61dafb",
+        },
+        {
+          lang: "SCSS",
+          color: "#6332f6",
+        },
+        {
+          lang: "Netlify",
+          color: "#2d8db6",
+        },
+        {
+          lang: "Git",
+          color: "#3c0095",
+        },
+      ],
+      link: "https://cocky-thompson-1632fb.netlify.app/",
+      code: "https://github.com/mohammadjavadnioctis/AeroTech",
+      linkcolor: "white",
+    },
+    {
       title: "DJ Snake Portfolio",
       img_path: "DJSnake.png",
       description:
@@ -407,7 +435,7 @@ const projectcards = {
         {
           lang: "JavaScript",
           color: "#ebd74c",
-          textColor: "black"
+          textColor: "black",
         },
         {
           lang: "JQuery",
@@ -415,6 +443,39 @@ const projectcards = {
         },
         {
           lang: "BootStrap",
+          color: "#004782",
+        },
+      ],
+      link: "https://thirsty-heisenberg-64be62.netlify.app/",
+      code: "https://github.com/mohammadjavadnioctis/DJSNake",
+      linkcolor: "white",
+    },
+    {
+      title: "FashionBoss",
+      img_path: "fashionwallpaper.jpg",
+      description:
+        "A React E-commerce Platform With Integrated Payment, Accounnt Management & Cart Functionality Managment With Redux.",
+      tags: [
+        {
+          lang: "Redux",
+          color: "#ebd74c",
+          textColor: "black",
+        },
+
+        {
+          lang: "React",
+          color: "#3c0095",
+        },
+        {
+          lang: "Google Cloud Platform",
+          color: "aqua",
+        },
+        {
+          lang: "Google FireBase",
+          color: "#007FFF",
+        },
+        {
+          lang: "SCSS",
           color: "#004782",
         },
       ],
@@ -739,7 +800,7 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
- 
+
   {
     name: "Gmail",
     link: "mailto:mjsweb.sitesend@gmail.com",
@@ -752,7 +813,6 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-whatsapp", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#4cca5a", // Reference https://simpleicons.org/?q=gmail
   },
-
 ];
 
 export {
