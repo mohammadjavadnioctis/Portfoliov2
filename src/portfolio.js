@@ -304,8 +304,8 @@ const projectcards = {
           color: "#3c0095",
         },
       ],
-      link: "https://github.com/mohammadjavadnioctis",
-      code: "https://github.com/mohammadjavadnioctis",
+      link: "https://nervous-tereshkova-0875aa.netlify.app/",
+      code: "https://github.com/mohammadjavadnioctis/CryptoX",
       linkcolor: "white",
     },
 
