@@ -483,61 +483,6 @@ const projectcards = {
       code: "https://github.com/mohammadjavadnioctis/DJSNake",
       linkcolor: "white",
     },
-
-    // {
-    //   title: "Newsearcher",
-    //   img_path: "news.gif",
-    //   description:
-    //     "Enter your search keyword and get a summary of news weblinks with images without actually opening the links.",
-    //   tags: [
-    //     {
-    //       lang: "python",
-    //       color: "#004782",
-    //     },
-    //     {
-    //       lang: "newspaper3k",
-    //       color: "#303030",
-    //     },
-    //     {
-    //       lang: "Streamlit",
-    //       color: "#ff4b4b",
-    //     },
-    //     {
-    //       lang: "nltk",
-    //       color: "#051c61",
-    //     },
-    //   ],
-    //   link: "https://github.com/mohammadjavadnioctis",
-    //   code: "https://github.com/mohammadjavadnioctis",
-    //   linkcolor: "white",
-    // },
-    // {
-    //   title: "ActiWeight",
-    //   img_path: "acti.gif",
-    //   description:
-    //     "ActiWeight is an Interactive Visualizer for understanding intuition behind 10 Activation Functions used in Neural Networks.",
-    //   tags: [
-    //     {
-    //       lang: "python",
-    //       color: "#004782",
-    //     },
-    //     {
-    //       lang: "matplotlib",
-    //       color: "#c47206",
-    //     },
-    //     {
-    //       lang: "Streamlit",
-    //       color: "#ff4b4b",
-    //     },
-    //     {
-    //       lang: "Heroku",
-    //       color: "#3c0095",
-    //     },
-    //   ],
-    //   link: "https://github.com/mohammadjavadnioctis",
-    //   code: "https://github.com/mohammadjavadnioctis",
-    //   linkcolor: "white",
-    // },
   ],
 };
 
