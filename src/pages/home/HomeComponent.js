@@ -6,11 +6,13 @@ import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
 import Contact from "../contact/ContactComponent";
 import Projects from "../projects/Projects";
+import ParticlesContainer from "../../components/particles/ParticlesContainer";
 
 class Home extends Component {
   render() {
     return (
       <div>
+        <ParticlesContainer/>
         <Header theme={this.props.theme} />
         <Greeting theme={this.props.theme} />
         <Skills theme={this.props.theme} />

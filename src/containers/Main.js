@@ -19,7 +19,7 @@ export default class Main extends Component {
   render() {
     if (settings.isSplash) {
       return (
-        <div>
+        <div >
           <Router basename="/" history={history}>
             <Switch>
               <Route
